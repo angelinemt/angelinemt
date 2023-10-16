@@ -4,9 +4,9 @@
         Aspiring IT Professional Paving the Way for the Future 
  </h3> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angelinemt/angelinemt.md/assets/147809067/ff5b6faf-78d4-4961-b44e-10c66016f8e8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/angelinemt/angelinemt.md/assets/147809067/ff5b6faf-78d4-4961-b44e-10c66016f8e8">
-  <img alt="BANNER PIC1" src="https://github.com/angelinemt/angelinemt.md/assets/147809067/ff5b6faf-78d4-4961-b44e-10c66016f8e8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/angelinemt/angelinemt/assets/147809067/4295d9fe-0b3f-4f6c-befd-eb7c4e12be46">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/angelinemt/angelinemt/assets/147809067/4295d9fe-0b3f-4f6c-befd-eb7c4e12be46">
+  <img alt="BANNER PIC1" src="https://github.com/angelinemt/angelinemt/assets/147809067/4295d9fe-0b3f-4f6c-befd-eb7c4e12be46">
 </picture> 
 
 
@@ -92,14 +92,14 @@
 
 # Certifications 
 <p align ="center">
-   <a href="https://github.com/angelinemt/angelinemt.md/files/12920066/ORACLE.CERTIFICATION_TAMAYO.ANGELINE.pdf" ><br>
+   <a href="https://github.com/angelinemt/angelinemt/assets/147809067/0f960cfe-97af-447b-929d-a360eceef1df" ><br>
                    Oracle Cloud Database Services Specialist 2021 - Oracle </a><br>
                    ORACLE <br>
                    2021 
 </p>
 
 <p align ="center">
-   <a href="https://github.com/angelinemt/angelinemt.md/assets/147809067/e65a9edd-237f-45da-aa96-ddd95d1f0c32" ><br>
+   <a href="https://github.com/angelinemt/angelinemt/assets/147809067/0f960cfe-97af-447b-929d-a360eceef1df" ><br>
                    Certificate of Participation - Webinar: Data Driven Decision Making and Data Sciences </a><br>
                    New Era University  <br>
                    May 2022 
