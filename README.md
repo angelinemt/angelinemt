@@ -92,7 +92,7 @@
 
 # Certifications 
 <p align ="center">
-   <a href="https://github.com/angelinemt/angelinemt/assets/147809067/0f960cfe-97af-447b-929d-a360eceef1df" ><br>
+   <a href="https://github.com/angelinemt/angelinemt/assets/147809067/7e1971b2-2375-41ea-97ab-dee19041dbac" ><br>
                    Oracle Cloud Database Services Specialist 2021 - Oracle </a><br>
                    ORACLE <br>
                    2021 
@@ -127,5 +127,5 @@
 </p>
 
 # 📈 GitHub Stats: 📈
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelinemt&theme=radical" alt="geline" /></p>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=angelinemt&theme=radical" alt="stats" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelinemt&theme=radical" alt="pd" /></p>
